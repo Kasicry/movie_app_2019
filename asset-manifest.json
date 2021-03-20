@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/movie_app_2019/static/css/main.ee595132.chunk.css",
-    "main.js": "/movie_app_2019/static/js/main.fe281640.chunk.js",
-    "main.js.map": "/movie_app_2019/static/js/main.fe281640.chunk.js.map",
-    "runtime-main.js": "/movie_app_2019/static/js/runtime-main.d008da2a.js",
-    "runtime-main.js.map": "/movie_app_2019/static/js/runtime-main.d008da2a.js.map",
-    "static/js/2.495383e8.chunk.js": "/movie_app_2019/static/js/2.495383e8.chunk.js",
-    "static/js/2.495383e8.chunk.js.map": "/movie_app_2019/static/js/2.495383e8.chunk.js.map",
-    "index.html": "/movie_app_2019/index.html",
-    "static/css/main.ee595132.chunk.css.map": "/movie_app_2019/static/css/main.ee595132.chunk.css.map",
-    "static/js/2.495383e8.chunk.js.LICENSE.txt": "/movie_app_2019/static/js/2.495383e8.chunk.js.LICENSE.txt"
+    "main.css": "/Kasicry.github.io/movie_app_2019/static/css/main.ee595132.chunk.css",
+    "main.js": "/Kasicry.github.io/movie_app_2019/static/js/main.fe281640.chunk.js",
+    "main.js.map": "/Kasicry.github.io/movie_app_2019/static/js/main.fe281640.chunk.js.map",
+    "runtime-main.js": "/Kasicry.github.io/movie_app_2019/static/js/runtime-main.e950ac30.js",
+    "runtime-main.js.map": "/Kasicry.github.io/movie_app_2019/static/js/runtime-main.e950ac30.js.map",
+    "static/js/2.495383e8.chunk.js": "/Kasicry.github.io/movie_app_2019/static/js/2.495383e8.chunk.js",
+    "static/js/2.495383e8.chunk.js.map": "/Kasicry.github.io/movie_app_2019/static/js/2.495383e8.chunk.js.map",
+    "index.html": "/Kasicry.github.io/movie_app_2019/index.html",
+    "static/css/main.ee595132.chunk.css.map": "/Kasicry.github.io/movie_app_2019/static/css/main.ee595132.chunk.css.map",
+    "static/js/2.495383e8.chunk.js.LICENSE.txt": "/Kasicry.github.io/movie_app_2019/static/js/2.495383e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d008da2a.js",
+    "static/js/runtime-main.e950ac30.js",
     "static/js/2.495383e8.chunk.js",
     "static/css/main.ee595132.chunk.css",
     "static/js/main.fe281640.chunk.js"
